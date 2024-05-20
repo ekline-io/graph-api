@@ -3,12 +3,15 @@
     "langchain_community",
     "langchain_anthropic",
     "langchain_openai",
+    "langchain_experimental",
     "wikipedia",
+    "youtube_search",
+    "IPython",
     "scikit-learn",
     "./my_graphs"
   ],
   "graphs": {
-    "agent": "./my_graphs/agent.py:graph"
+    "agent": "./my_graphs/chatbot_agent.py:graph"
   },
   "env": ".env"
 }
