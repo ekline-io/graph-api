@@ -30,7 +30,7 @@ This project uses `poetry` for dependency management and packaging in Python.
 3. Install [poetry](https://python-poetry.org/docs/#system-requirements) `pipx install poetry`
 4. Run `poetry install` to install all the dependencies
 5. `poetry shell` to start the venv shell
-Note: `poetry env use /full/path/to/python/3.11` -> Make sure your venv is using 3.11 version of python as well. 
+Note: `poetry env use /full/path/to/python/3.11` -> Make sure your venv is using 3.11 version of python as well.
 
 
 `poetry` creates virtual environment in {cache-dir/virtualenvs}. Refer this [doc](https://python-poetry.org/docs/configuration/#cache-dir)

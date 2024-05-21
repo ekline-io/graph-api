@@ -11,7 +11,7 @@
     "./my_graphs"
   ],
   "graphs": {
-    "agent": "./my_graphs/chatbot_agent.py:graph"
+    "chatbot_agent": "./my_graphs/chatbot_agent.py:graph"
   },
   "env": ".env"
 }
