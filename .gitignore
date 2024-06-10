@@ -3,3 +3,4 @@
 .langserve-data
 .langgraph-data
 .ipynb_checkpoints
+*.pem
